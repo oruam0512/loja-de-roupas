@@ -1,0 +1,91 @@
+body{
+    background-color:#ffffff; 
+    align-items: left;
+}
+
+header{
+    background-color: rgb(2, 195, 243);
+    color: white;
+    font-size: 52px;
+    align-items: center;
+}
+
+.cabecalho-imagem{
+    width: 15%;
+    align-items: center
+    
+}
+
+.cabecalho{
+    background-color: #18a362;
+    color:rgb(255, 255, 255);
+    display: flex; 
+    justify-content: space-around;
+    align-items:center;
+    padding: 5px;
+}
+
+
+.escola-imagem{
+    width: 30%;
+    align-items: left;
+    padding: 5px 0px;
+}   
+
+.escola{ 
+    background-color: #ffffff;
+    color: #18a362;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 210px ;
+}
+
+.escola-conteudo{
+width: 63%;
+padding-left: ;
+}
+
+.escola-titulo{
+    padding:10px 0px;
+
+}
+
+.rodape{
+    background-color: #18a362;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around; align-items: center;
+    padding: 5px 0px;
+}   
+
+.rodape-lista-de-itens{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 10px 0;
+    font-size: 24px;
+    color: white
+}   
+
+.roupas-imagem{
+    width: 90%;
+}
+
+.roupas-nome{
+    color:#18a362; ;
+    align-items: center;
+}
+
+.roupas{ 
+    text-align: center;
+    display: grid; 
+    grid-template-columns:  20% 20% 20% 20%;
+}
+
+.roupas-dv{
+    text-align: center;
+}
+
+.cabecalho-titulo{
+    font-size: 50px;
+}

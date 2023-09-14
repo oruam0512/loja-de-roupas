@@ -1,0 +1,79 @@
+body{
+    background-color:#ffffff; 
+    align-items: left;
+}
+
+header{
+    background-color: rgb(207, 10, 10);
+    color: white;
+    font-size: 24px;
+    align-items: center;
+    width: 100%;
+    span: 1000px;
+}
+
+.cabecalho-imagem{
+    width: 21%;
+    align-items: left;
+    
+}
+
+.cabecalho{
+    background-color: #f10050;
+    color:rgb(255, 255, 255);
+    display: flex; 
+    justify-content: space-around;
+    align-items:center;
+    padding: 5px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 0px 0px;
+    font-size: 30px;
+    align-items: left;
+}
+
+.escola-imagem{
+    width: 130%;
+    align-items: left;
+    padding: 5px 0px;
+}   
+
+.escola{ 
+    background-color: #ffffff;
+    color: rgb(226, 2, 96);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 210px ;
+    font-size: 20px;
+}
+
+.escola-conteudo{
+width: 99%;
+padding-left: ;
+}
+
+.escola-titulo{
+    padding:10px 0px;
+
+}
+
+.rodape{
+    background-color:#f5005e ;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around; align-items: center;
+    padding: 5px 0px;
+}   
+
+.rodape-lista-de-itens{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 10px 0;
+    font-size: 24px;
+    color: white
+}   
+ 
